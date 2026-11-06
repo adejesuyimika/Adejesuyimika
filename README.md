@@ -4,7 +4,7 @@
 
 Welcome to my GitHub profile!
 
-I'm an IT professional with **10+ years of experience in IT**, currently transitioning into Cybersecurity. I'm passionate about understanding how systems work, identifying vulnerabilities, detecting threats, and building secure digital environments.
+I'm an IT professional with **10+ years of experience in IT**, currently transitioning from Security Controller into Cybersecurity. I'm passionate about understanding how systems work, identifying vulnerabilities, detecting threats, and building secure digital environments.
 
 I'm documenting my cybersecurity journey, sharing hands-on projects, practical labs, technical experiments, and everything I'm learning along the way.
 
